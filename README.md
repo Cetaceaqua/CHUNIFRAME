@@ -1,6 +1,6 @@
 # CHUNIFRAME
 
-WIP Chinese Documention Site: [CHUNIFRAME](https://chuniframe.cetaceaqua.com/)
+WIP Chinese Documentation Site: [CHUNIFRAME](https://chuniframe.cetaceaqua.com/)
 
 
 
